@@ -1,0 +1,72 @@
+/*barra de navegacion*/
+.navbar{
+    margin: 0;
+    padding: 2rem;
+    background-color:rgb(245, 245, 247);
+
+}
+
+.collapse{
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    color:rgb(19, 247, 16);
+}
+
+/*responsivo*/
+@media screen and (max-width: 767px){
+    .navbar-brand{
+        display: none;
+    }
+}
+/* pie de pagina */
+footer{
+    background-color:rgb(13, 11, 11) ;
+    color: aliceblue;
+    min-height: 500px;
+}
+.footer-logo{
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+.footer-texto{
+    font-size: 1.5rem;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.iconos-redes i{
+    width: 50;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    margin: 10px;
+    border: 2px solid aliceblue;
+    border-radius: 50%;
+    transition:all 0.2s ease-in ;
+}
+.iconos-redes a:hover{
+    background-color: rgb(13,110 ,253);
+    border:2px solid rgb(13,110 ,253) ;
+
+}
+.iconos-redes a:hover i {
+    color: greenyellow;
+    border: 2px solid greenyellow;
+
+}
+
+
+
+.derecho-autor{
+    font: size 15px;
+    color: #aeaeae;
+    padding: 20px;
+}
