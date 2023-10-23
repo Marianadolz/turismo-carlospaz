@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+    <link>https://www.gloomaps.com/r2eav9tEjh</link>
+    <pubdate>10/23/2023</pubdate>
+    <section>
+    <box>
+        <text>web turismo: Descubre Carlos Paz</text>
+        <propa>#b871a6</propa>
+        <propb/>
+        <member>
+        <box>
+            <text>inicio
+index.html</text>
+            <propa>#a7d6c6</propa>
+            <member>
+            <box>
+                <text>Carlos Paz 360</text>
+                <member/>
+            </box>
+            </member>
+        </box>
+        <box>
+            <text>Servicios
+servicios.html</text>
+            <propa>#a7d6c6</propa>
+            <member>
+            <box>
+                <text>diferentes servicios que ofrece la Villa</text>
+                <member/>
+            </box>
+            </member>
+        </box>
+        <box>
+            <text>Quienes somos
+quienes-somos.html</text>
+            <propa>#a7d6c6</propa>
+            <member>
+            <box>
+                <text>integrantes del grupo 4</text>
+                <member/>
+            </box>
+            </member>
+        </box>
+        <box>
+            <text>contacto
+contacto.html</text>
+            <propa>#a7d6c6</propa>
+            <member>
+            <box>
+                <text>formulario</text>
+                <member/>
+            </box>
+            </member>
+        </box>
+        </member>
+    </box>
+    </section>
+</gloomaps>

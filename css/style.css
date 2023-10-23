@@ -62,11 +62,16 @@ footer{
     border: 2px solid greenyellow;
 
 }
-
-
-
 .derecho-autor{
-    font: size 15px;
+    font: size 12px;
     color: #aeaeae;
     padding: 20px;
 }
+.recursos-graficos{
+    font-size: 10px;
+}
+.mapa-sitio{
+    font-size: 10px;
+}
+
+
