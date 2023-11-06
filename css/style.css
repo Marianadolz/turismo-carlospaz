@@ -172,6 +172,9 @@ footer{
 .experiencia{
     padding: 40px 40px 60px 40px;
 }
+#proyecto{
+background-color: white;
+}
 .experiencia .seccion-clara{
     background-color: black;
     color: white;
