@@ -74,16 +74,13 @@ footer{
     font-size: 10px;
 }
 /*formulario*/
-#form{
+#formulariocons{
     background: no-repeat;
     background-position: center;
     background-size: cover;
     padding: 200px;
-}
-.form{
     color: yellow;
 } 
-
 /* Quienes somos */
 .titulo {
     display: flex;
