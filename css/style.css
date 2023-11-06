@@ -220,5 +220,12 @@ footer{
     padding: 40px;
     margin-top: 20px;
     border-radius: 10px;
-    }
-    
+}
+/* servicio   */
+.serv{
+    background-color:#B3B6B7 ;
+}
+/* quienes somos */
+.somos{
+    background-color: #B3B6B7 ;
+}
