@@ -24,9 +24,9 @@
 }
 /* pie de pagina */
 footer{
-    background-color:rgb(13, 11, 11) ;
+    background-color: #003b46 ;
     color: aliceblue;
-    min-height: 300px;
+    min-height: 350px;
 }
 .footer-logo{
     height: 80px;
@@ -42,6 +42,7 @@ footer{
     width: 50;
     height: 50px;
     display: flex;
+    color: aliceblue;
     align-items: center;
     justify-content: center;
     padding: 2px;
@@ -50,12 +51,16 @@ footer{
     border-radius: 50%;
     transition:all 0.2s ease-in ;
 }
-.iconos-redes a:hover{
+.iconos-redes a{
+    text-decoration: none;
+}
+/* .iconos-redes a:hover{
     background-color: rgb(13,110 ,253);
     border:2px solid rgb(13,110 ,253) ;
 
-}
+} */
 .iconos-redes a:hover i {
+    background-color: rgb(13,110 ,253) ;
     color: greenyellow;
     border: 2px solid greenyellow;
 
@@ -167,13 +172,13 @@ footer{
 }
 /*experiencia*/
 .experiencia{
+    background-color: #4F6457;
     padding: 40px 40px 60px 40px;
 }
 #proyecto{
 background-color: white;
 }
 .experiencia .seccion-clara{
-    background-color: black;
     color: white;
 }
 .experiencia-titulo{
@@ -223,16 +228,19 @@ background-color: white;
 }
 /* servicio   */
 .serv{
-    background-color: #d0fdd7;
+    background-color:#99bfaa;
 }
 .cards{
+    background-color: #F5E356;
     height: 20rem;
     padding-top: 5rem;
 }
 .card{
+    background-color: #4F6457;
     height: 36rem;
 }
 /* quienes somos */
 .somos{
-    background-color:#d0fdd7 ;
+    background-color:#99bfaa;
 }
+   
