@@ -223,9 +223,16 @@ background-color: white;
 }
 /* servicio   */
 .serv{
-    background-color:#B3B6B7 ;
+    background-color: #d0fdd7;
+}
+.cards{
+    height: 20rem;
+    padding-top: 5rem;
+}
+.card{
+    height: 36rem;
 }
 /* quienes somos */
 .somos{
-    background-color: #B3B6B7 ;
+    background-color:#d0fdd7 ;
 }
