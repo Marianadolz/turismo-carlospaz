@@ -243,4 +243,18 @@ background-color: white;
 .somos{
     background-color:#99bfaa;
 }
+.carlos-paz{
+    background-color:#99bfaa;
+}
+/* index */
+#portafolio img{
+    border-radius: 10px;
+}
+#carousel{
+    background-color:#99bfaa;
+}
+hr{
+    height: 5px;
+    background-color: #1b1b32;
+}
 
