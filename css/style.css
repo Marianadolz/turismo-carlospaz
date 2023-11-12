@@ -234,6 +234,8 @@ background-color: white;
     background-color: #F5E356;
     height: 20rem;
     padding-top: 5rem;
+    border: 2px solid #4F6457 ;
+    border-radius: 5px;
 }
 .card{
     background-color: #4F6457;
