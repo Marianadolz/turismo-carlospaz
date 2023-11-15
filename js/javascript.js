@@ -47,9 +47,10 @@ function validarDatos() {
         alert("Felicitaciones hemos recibido tu consulta");
     }
 }
-/*boton bienvenida*/
+
+/*boton bienvenida de sevicios*/
 function mOver(obj) {
-    obj.innerHTML = "Hola"
+    obj.innerHTML = "Los esperamos"
 }
 function mOut(obj) {
     obj.innerHTML = "Bienvenidos"
