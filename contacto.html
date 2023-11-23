@@ -56,20 +56,20 @@
                     <div class="col form" ><h1>Realiza tu consulta</h1>
                     </div> 
                 </div>
-                <div class="row">
+                <div class="row" id="formulario">
                     <div class="col form">
                         <!-- formulario -->
                         <form name="formConsultas" class="row g-3 needs-validation" novalidate  action="https://formsubmit.co/marianadolz.mgd@gmail.com" method="POST">
                             <div class="col-12 col-md-4">
                               <label for="validationCustom01" class="form-label">Nombre</label>
-                              <input type="text" name="nombre" minlength="3" maxlength="30" class="form-control" id="validationCustom01" value="" required>
+                              <input type="text" name="nombre" placeholder="Ingrese su Nombre"  minlength="3" maxlength="30" class="form-control" id="validationCustom01" value="" required>
                               <div class="valid-feedback">
                                 Correcto!
                               </div>
                             </div>
                             <div class="col-12 col-md-4">
                               <label for="validationCustom02" class="form-label">Apellido</label>
-                              <input type="text" name="apellido" minlength="3" maxlength="30" class="form-control" id="validationCustom02" value="" required>
+                              <input type="text" name="apellido" placeholder="Ingrese su Apellido" minlength="3" maxlength="30" class="form-control" id="validationCustom02" value="" required>
                               <div class="valid-feedback">
                                 Correcto!
                               </div>
@@ -78,7 +78,7 @@
                               <label for="validationCustomUsername" class="form-label">Mail</label>
                               <div class="input-group has-validation">
                                 <span class="input-group-text" id="inputGroupPrepend">@</span>
-                                <input type="email" name="email" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+                                <input type="email" name="email" placeholder="email" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
                                 <div class="invalid-feedback">
                                     Por favor, elija un mail válido.
                                 </div>
@@ -86,7 +86,7 @@
                             </div>    
                             <div class="col-12 col-md-6">
                               <label for="validationCustom03" class="form-label">Consulta</label>
-                              <input type="text" name="consulta" minlength="15" name class="form-control" id="validationCustom03" required>
+                              <input type="text" name="consulta" placeholder="Su consulta" minlength="15" name class="form-control" id="validationCustom03" required>
                               <div class="invalid-feedback">
                                 Ingrese su consulta.
                               </div>

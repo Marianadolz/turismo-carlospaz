@@ -83,6 +83,12 @@ footer{
     padding: 200px;
     color: yellow;
 } 
+#formulario{
+    background-color: #aeaeae;
+    opacity: 0.8;
+    border-radius: 5px; 
+    padding-bottom: 2rem;
+}
 /* Quienes somos */
 .titulo {
     display: flex;
